@@ -1,5 +1,6 @@
 from tkinter import *
 import time
+from playsound import playsound 
 
 root = Tk()
 root.title("Countdown timer")
